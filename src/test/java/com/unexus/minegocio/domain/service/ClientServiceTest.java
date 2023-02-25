@@ -38,7 +38,7 @@ class ClientServiceTest {
     void tearDown() {
     }
 
-    @DisplayName("Test para mostrar listado de clientes")
+    @DisplayName("Debe mostrar listado de clientes")
     @Test
     void getAll() {
         Cliente cliente1 = Cliente.builder()
