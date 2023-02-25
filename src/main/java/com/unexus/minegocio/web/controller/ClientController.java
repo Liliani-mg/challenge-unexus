@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 import java.util.List;
-/*
- * Created by: Fernando Sangopanta
- */
+
 
 @RestController
 @RequestMapping("/clients")
